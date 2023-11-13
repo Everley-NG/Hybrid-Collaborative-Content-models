@@ -30,5 +30,7 @@ We will find the average of the content-based and collaborative filtering scores
 For the evaluation performance, we will use the root mean-square error (RMSE) to measure the performance that compares our model predictions with the known ratings from the ‘Ratings’ file, precision at top 10 and rank correlation that spearman’s correlation between system’s and user’s complete rankings.
 
 Content-Based filtering - Melissa Pinto and Hoi Hin Ng
-Collaborative-Based filtering - Yvonne Itangishaka and Mariam Lo 
+
+Collaborative-Based filtering - Yvonne Itangishaka and Mariam Lo
+
 Documentation - All
