@@ -1,4 +1,4 @@
-# CP421-Group-Project
+# Hybrid Collaborative-Content models
 
 ## Project Proposal
 
